@@ -1,42 +1,6 @@
 layout: {zmk_keyboard: cygnus}
 layers:
-  QWERTY:
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - {t: A, h: LGUI}
-  - {t: S, h: LALT}
-  - {t: D, h: LCTRL}
-  - {t: F, h: LSHFT}
-  - G
-  - H
-  - {t: J, h: RSHFT}
-  - {t: K, h: RCTRL}
-  - {t: L, h: RALT}
-  - {t: ;, h: RGUI}
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - N
-  - M
-  - ','
-  - .
-  - QU
-  - {t: QWERTY, h: toggle}
-  - {t: REPEAT, h: FUN}
-  - {t: SPACE, h: LOWER}
-  - {t: BACK SPACE, h: RAISE}
-  - {t: LSHFT, h: NAV}
-  - {t: ROMAK, h: toggle}
+  QWERTY: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0', A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z]
   ROMAK:
   - Q
   - B
